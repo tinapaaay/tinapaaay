@@ -31,6 +31,12 @@ I design and build **clean, accessible web products for Filipino users**, from t
 
 ---
 
+### What I care about
+
+- **Calm, clean interfaces** that let the content do the talking
+- **Accessible by default**, because good design works for everyone
+- **Built for real Filipino users**, from pick-up points to GCash
+
 ### How I work
 
 - **Design system before UI:** every project starts with a `DESIGN.md` of tokens and rules, linted with Google's design.md CLI.
